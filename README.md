@@ -1,19 +1,22 @@
 # PayloadParaTudo
-PAYLOADS e BYPASSES para a 'WEB APPLICATION'. 
-Repository for you to be happy! 🤓 
+
+<div align=left
+<p><strong>PAYLOADS</strong> e <strong>BYPASSES</strong> para a &#39;<em>WEB APPLICATION</em>&#39;.<br />
+Repository for you to be <u>happy</u>! 🤓</p>
+
+</div>
 
 
 Cada seção contém:
 
-    README.md - descrição da vulnerabilidade e como explorá-la;
-    Intruders - um conjunto de arquivos para o Burp Intruder;
-    Coisinhas mais...
+- README.md - descrição da vulnerabilidade e como explorá-la;
+- Intruders - um conjunto de arquivos para o Burp Intruder;
+- Coisinhas mais...
 
-EMCONSTRUÇÃO==================EMCONSTRUÇÃO==================EMCONSTRUÇÃO
 
 Você também pode gostar de:
 
-- [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
+- [Metodologias e Recursos](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
   - [Active Directory Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
   - [Methodology_and_enumeration.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Methodology_and_enumeration.md)
   - [Network Pivoting Techniques.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md)
@@ -44,7 +47,7 @@ Você também pode gostar de:
     - WebLogic CVE-2018-2894.py
     - WebSphere CVE-2015-7450.py
 
-## Tente mais
+## Para você praticar mais
 
 Você já se perguntou onde pode usar seu conhecimento? A lista a seguir o ajudará a encontrar "metas" para melhorar suas habilidades. 
 
@@ -73,7 +76,7 @@ Você já se perguntou onde pode usar seu conhecimento? A lista a seguir o ajuda
 
 ## Livros
 
-Grab a book and relax, these ones are the best security books (in my opinion).
+Pegue um livro e relaxe! Esses são uns dos melhores livros de CyberSecurity. (na minha opnião rs).
 
 - [Web Hacking 101](https://leanpub.com/web-hacking-101)
 - [Breaking into Information Security: Learning the Ropes 101 - Andrew Gill](https://leanpub.com/ltr101-breaking-into-infosec)
