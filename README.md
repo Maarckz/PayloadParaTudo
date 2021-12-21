@@ -11,7 +11,7 @@ Cada seção contém:
 
 EMCONSTRUÇÃO==================EMCONSTRUÇÃO==================EMCONSTRUÇÃO
 
-You might also like :
+Você também pode gostar de:
 
 - [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
   - [Active Directory Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
@@ -44,18 +44,18 @@ You might also like :
     - WebLogic CVE-2018-2894.py
     - WebSphere CVE-2015-7450.py
 
-## Try Harder
+## Tente mais
 
-Ever wonder where you can use your knowledge ? The following list will help you find "targets" to improve your skills.
+Você já se perguntou onde pode usar seu conhecimento? A lista a seguir o ajudará a encontrar "metas" para melhorar suas habilidades. 
 
-- __Bug Bounty Platforms__
+- __Plataformas de Bug Bounty __
   - [HackerOne](https://hackerone.com)
   - [BugCrowd](https://bugcrowd.com)
   - [Bounty Factory](https://bountyfactory.io)
   - [Synack](https://www.synack.com/)
   - [Intigriti](https://www.intigriti.com)
   - [List of Bounty Program](https://bugcrowd.com/list-of-bug-bounty-programs/)
-- __Online Platforms__
+- __Plataformas Online __
   - [Hack The Box](hackthebox.eu/)
   - [Penetration test lab "Test lab" | Pentestit](https://lab.pentestit.ru)
   - [PentesterLab : Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
@@ -71,7 +71,7 @@ Ever wonder where you can use your knowledge ? The following list will help you 
   - [Hackers.gg](hackers.gg)
   - [Mind Map - Penetration Testing Practice Labs - Aman Hardikar](http://www.amanhardikar.com/mindmaps/Practice.html)
 
-## Book's list
+## Livros
 
 Grab a book and relax, these ones are the best security books (in my opinion).
 
@@ -94,9 +94,9 @@ Grab a book and relax, these ones are the best security books (in my opinion).
 - [The Mobile Application Hackers Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
 - [Car Hacker's Handbook by Craig Smith, 2016](https://www.nostarch.com/carhacking)
 
-## More resources
+## Mais recursos
 
-### Blogs/Websites
+### Blogs/Sites
 
 - [BUG BOUNTY FIELD MANUAL: THE DEFINITIVE GUIDE FOR PLANNING, LAUNCHING, AND OPERATING A SUCCESSFUL BUG BOUNTY PROGRAM](https://www.hackerone.com/blog/the-bug-bounty-field-manual)
 - [How to become a Bug Bounty Hunter - Sam Houston](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
